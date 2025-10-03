@@ -11,3 +11,8 @@
 
 - Ролик: [Жмак](https://youtu.be/YIvTQugWDbk)
 - Инструкции: [Жмак](./homelab-settings/README.MD)
+
+## Настройка CISCO NEXUS 3048TP.
+
+- Ролик: [Жмак](https://youtu.be/BKzZh9x-SMY)
+- Инструкции: [Жмак](./homelab-switch-config/README.MD)
