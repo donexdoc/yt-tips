@@ -16,3 +16,9 @@
 
 - Ролик: [Жмак](https://youtu.be/BKzZh9x-SMY)
 - Инструкции: [Жмак](./homelab-switch-config/README.MD)
+
+## Настройка Next Cloud Talk.
+
+- Ролик: [Жмак](https://youtu.be/f8dL2VbSjk8)
+- Конфиг Next Cloud на True Nas: [Жмак](./next-cloud-setting/README.MD)
+- Доступ к домашней сети (Белый IP): [Жмак](./wg-easy/README.MD)
